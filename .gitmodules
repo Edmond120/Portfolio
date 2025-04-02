@@ -10,3 +10,6 @@
 [submodule "graph_theory/graph_scripts"]
 	path = graph_theory/graph_scripts
 	url = https://github.com/Edmond120/graph_scripts
+[submodule "stuyvesant_projects/graphics_engine_remake"]
+	path = stuyvesant_projects/graphics_engine_remake
+	url = https://github.com/Edmond120/graphics_engine_remake

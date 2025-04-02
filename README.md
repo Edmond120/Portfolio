@@ -43,3 +43,16 @@ Languages: Python, Bash
 
 A collection of scripts used to process graphs and do compile data
 based on their degree sequences.
+
+### Stuyvesant High School Projects
+
+My high school projects.
+
+#### 3D Graphics Engine
+[Repository](https://github.com/Edmond120/graphics_engine_remake)
+
+Languages: Python
+
+A Python graphics engine that draws 3D objects by reading from a script file.
+It can draw lines, circles, hermite curves, bezier curves, boxes, spheres, and tori.
+In addition, it also comes with matrix transformations such as translate, scale, and rotate.
