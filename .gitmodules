@@ -1,0 +1,6 @@
+[submodule "simple_machine_language_emulator"]
+	path = simple_machine_language_emulator
+	url = https://github.com/Edmond120/simple_machine_language_emulator
+[submodule "discord_bot"]
+	path = discord_bot
+	url = https://github.com/Edmond120/discord_bot
