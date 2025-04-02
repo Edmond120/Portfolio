@@ -56,3 +56,17 @@ Languages: Python
 A Python graphics engine that draws 3D objects by reading from a script file.
 It can draw lines, circles, hermite curves, bezier curves, boxes, spheres, and tori.
 In addition, it also comes with matrix transformations such as translate, scale, and rotate.
+
+#### Processing Game
+[Repository](https://github.com/Edmond120/game)
+
+Languages: Java
+
+This is a top down shooter video game that I made with
+[Processing](https://processing.org/), a Java graphics framework.
+
+What is interesting about this project, is that it includes
+a keyboard controllable worm. The worm is made of multiple segments
+and you can steer its head, the rest of the segments are controlled
+by game physics making it possible to swing the tail around when
+turning.

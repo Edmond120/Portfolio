@@ -13,3 +13,6 @@
 [submodule "stuyvesant_projects/graphics_engine_remake"]
 	path = stuyvesant_projects/graphics_engine_remake
 	url = https://github.com/Edmond120/graphics_engine_remake
+[submodule "stuyvesant_projects/game"]
+	path = stuyvesant_projects/game
+	url = https://github.com/Edmond120/game
