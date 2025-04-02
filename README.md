@@ -23,7 +23,7 @@ Language: JavaScript
 
 This is a chat bot used to remember and reference messages on Discord.
 
-### College Graph Theory Research Utilities
+### Brooklyn College Graph Theory Research Utilities
 
 These are some utilities that I wrote to aid in graph theory research
 during my time in college.
