@@ -70,3 +70,11 @@ a keyboard controllable worm. The worm is made of multiple segments
 and you can steer its head, the rest of the segments are controlled
 by game physics making it possible to swing the tail around when
 turning.
+
+#### Botto
+[Repository](https://github.com/Edmond120/finalProject)
+
+Languages: Java
+
+A framework to build chatbots not with APIs but rather by interacting
+with the browser through [Selenium](https://www.selenium.dev/).

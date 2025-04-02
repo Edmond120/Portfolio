@@ -16,3 +16,6 @@
 [submodule "stuyvesant_projects/game"]
 	path = stuyvesant_projects/game
 	url = https://github.com/Edmond120/game
+[submodule "stuyvesant_projects/botto"]
+	path = stuyvesant_projects/botto
+	url = https://github.com/Edmond120/finalProject
