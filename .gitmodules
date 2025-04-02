@@ -4,3 +4,9 @@
 [submodule "discord_bot"]
 	path = discord_bot
 	url = https://github.com/Edmond120/discord_bot
+[submodule "graph_theory/graph_profiler"]
+	path = graph_theory/graph_profiler
+	url = https://github.com/Edmond120/graph_profiler
+[submodule "graph_theory/graph_scripts"]
+	path = graph_theory/graph_scripts
+	url = https://github.com/Edmond120/graph_scripts
