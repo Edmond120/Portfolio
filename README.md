@@ -7,6 +7,18 @@
 
 Note: Some projects are only listed on my [webpage](https://edmond120.github.io).
 
+### Mutant, a configuration file manager
+[Repository](https://github.com/Edmond120/mutant)
+
+Language: Python, M4 (The language used for GNU Autotools)
+
+This project uses dependency resolution to generate configuration
+files for multiple computers from the same set of templates.
+By locking behind features based dependencies and allowing configuration
+files to provide dependencies based on certain conditions, the program
+can determine all the features that can be enabled on a system without
+causing any issues.
+
 ### Simple machine language emulator
 [Repository](https://github.com/Edmond120/simple_machine_language_emulator)
 

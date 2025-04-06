@@ -19,3 +19,6 @@
 [submodule "stuyvesant_projects/botto"]
 	path = stuyvesant_projects/botto
 	url = https://github.com/Edmond120/finalProject
+[submodule "mutant"]
+	path = mutant
+	url = https://github.com/Edmond120/mutant
